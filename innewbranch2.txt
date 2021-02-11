@@ -4,7 +4,7 @@ Main @2 T WS
 
 
 
-<<<<<<< HEAD
+<<<<<<< HEADD
 new b bbb
 =======
 new b
