@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Main @2 T WS
 
 
 
+<<<<<<< HEAD
 new b bbb
+=======
+new b
+=======
+Main @2 @r s
+>>>>>>> f80a690... new Main commit 1
+>>>>>>> 5beed43... new Main commit 1
